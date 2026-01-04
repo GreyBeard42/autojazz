@@ -1,0 +1,16 @@
+{
+  "title": "Auto Jazz",
+  "desc": "(poorly) Generated Jazz Chord Progessions.",
+
+  "status": "garbage",
+  "version": "v0",
+
+  "date": "07/27/2025",
+
+  "tags": [
+    "javascript",
+    "tone.js",
+    "tinker",
+    "music"
+  ]
+}
